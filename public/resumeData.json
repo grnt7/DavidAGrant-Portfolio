@@ -1,0 +1,211 @@
+{
+  "main": {
+    "name": "David Grant",
+    "occupation": "Junior Frontend Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "dgportrait.jpg",
+    "bio": "Hi there! I am David! My journey into coding began with the Meta Front-End Developer course, where I discovered a passion for building clean, user-friendly interfaces. Since then, I’ve been honing my skills in front-end development, with a strong focus on writing accessible, responsive, and efficient code. In addition to development, I’ve also studied the Google UX design Course and earned certifications in Google Digital Marketing and E-commerce plus Harvard's Python CS50. These experiences give me a broader perspective on creating products that not only work well—but truly connect with users. I'm excited to keep growing as a developer and contribute to meaningful, user-centered projects.",
+
+
+    "contactmessage": "Get in touch with me!",
+    "email": "da.grant7@outlook.com",
+    "phone": "+44 07828770360",
+    "address": {
+      
+      "city": "London",
+    
+      "zip": "NW64AD"
+    },
+    "website": "https://davidagrant.co.uk", 
+    "resumedownload": "pdf/DAGRANT_Frontend_Developer_Resume.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Coursera",
+        "degree": "Meta Front-End Develper Certificate",
+        "graduated": "August 2024",
+        "description": "Multi-course program, featuring nine courses, that covers essential topics like HTML, CSS, JavaScript, React, and UX/UI design. The program emphasizes hands-on experience through practical projects and a capstone project, allowing learners to build a portfolio to showcase their skills."
+      }
+    ],
+    "work": [
+      {
+        "company": "Projects",
+        "title": "Founder and CEO",
+        "years": "May 2024-Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+   "skills": [
+  { "name": "React", "iconClass": "devicon-react-original" },
+  { "name": "TypeScript", "iconClass": "devicon-typescript-plain" },
+  { "name": "JavaScript", "iconClass": "devicon-javascript-plain" },
+  { "name": "Next.js", "iconClass": "devicon-nextjs-plain colored"},
+  { "name": "Jest", "iconClass": "devicon-jest-plain" },
+  { "name": "HTML5", "iconClass": "devicon-html5-plain" },
+  { "name": "CSS3", "iconClass": "devicon-css3-plain" },
+  { "name": "MUI", "iconClass": "devicon-materialui-plain" },
+  { "name": "TAILWIND CSS", "iconClass": "devicon-tailwindcss-original colored" },
+  { "name": "Node.js", "iconClass": "devicon-nodejs-plain" },
+  { "name": "Python", "iconClass": "devicon-python-plain" },
+  { "name": "Linux", "iconClass": "devicon-linux-plain" },
+  { "name": "Django", "iconClass": "devicon-django-plain" },
+  { "name": "PostgreSQL", "iconClass": "devicon-postgresql-plain" },
+  { "name": "Supabase", "iconClass": "devicon-supabase-plain"},
+  { "name": "Heroku", "iconClass": "devicon-heroku-original" },
+  { "name": "GitHub", "iconClass": "devicon-github-original" },
+  { "name": "Firebase", "iconClass": "devicon-firebase-plain" },
+  { "name": "Vercel", "iconClass": "devicon-vercel-original" },
+  { "name": "Figma", "iconClass": "devicon-figma-plain" }
+ 
+
+]
+    
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Lime Scooter Clone (React Native)",
+        "description": "Lime Scooter Clone developed using React Native, Android Studio, Supabase Authentication and Mapbox API.",
+        "category": "",
+        "image": "LimeStartJourneyAndroidMockup.jpg",
+        "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Supabase", "Android Studio", "Expo"],
+  "icons": [
+    "devicon-react-original",
+    "devicon-typescript-plain",
+   "devicon-nextjs-plain colored",
+    "devicon-jest-plain",
+    "devicon-materialui-plain",
+    "devicon-nodejs-plain",
+    "devicon-supabase-plain",
+    "devicon-androidstudio-plain colored"
+    
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/grnt7/Lime-App"
+       
+      },
+      {
+        "title": "Uber Clone (React Native)",
+        "description": "Created a clone of the Uber interface, focusing on the user map and ride request functionality.Technologies Used: React Native,Google Autocomplete, Google Directions API, Google Places API, Google Distance Matrix API)",
+        "category": "",
+        "image": "White and Black Minimalist Phone MockupUberClone).jpg",
+        "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js","Android Studio", "Expo"],
+        "icons": [
+    "devicon-react-original",
+    "devicon-typescript-plain",
+   "devicon-nextjs-plain colored",
+    "devicon-jest-plain",
+    "devicon-materialui-plain",
+    "devicon-nodejs-plain",
+     "devicon-androidstudio-plain colored"
+    
+  ],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/grnt7/my-expo-Uber-Clone"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "description":"Built a clone of the Netflix user interface to practice and demonstrate front-end development skills.echnologies Used: React, Redux, Google Auth, Firebase, TMDB, Stripe Checkout & Webhooks, Redux, Netlify Deployment.",
+
+
+        "category": "",
+        "image": "NeutralBohoTabletMockupNetflix.png",
+         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Firebase", "Vercel", "Stripe API"],
+        "icons": [
+    "devicon-react-original",
+    "devicon-typescript-plain",
+   "devicon-nextjs-plain colored",
+    "devicon-jest-plain",
+    "devicon-css3-plain",
+    "devicon-nodejs-plain",
+    "devicon-firebase-plain",
+    "devicon-vercel-original" 
+   
+  ],
+  "liveUrl": "https://neflix-build-demo.vercel.app/",
+  "githubUrl": "https://github.com/grnt7/Neflix-build-demo"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "description":"Developed a clone of the Airbnb frontend, focusing on product display with a calendar date picker, and user interaction. Technologies Used: HTML, CSS, JavaScript, React, Nextjs, Mapbox API and  Vercel Deployment.",
+
+        "category": "",
+        "image": "BohoTablet1.png",
+        "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js"],
+        "icons": [
+    "devicon-react-original",
+    "devicon-typescript-plain",
+   "devicon-nextjs-plain colored",
+    "devicon-jest-plain",
+    "devicon-materialui-plain",
+    "devicon-nodejs-plain"
+    
+  ],
+  "liveUrl": "https://airbnb-clone1-two.vercel.app/",
+  "githubUrl": "https://github.com/grnt7/airbnb-clone1"
+      },
+   {
+        "title": "Little Lemon Restaurant (React JS)",
+        "description":"Completed during Meta Front-end developer certificate for Capstone project.Built using React. Fully responsive with table booking fucntionality.",
+
+
+        "category": "",
+        "image": "LittlelemonLaptopVibrant.jpg",
+        "tech": ["React",  "Jest", "Material UI", "Node.js"],
+        "icons": [
+    "devicon-react-original",
+    
+   
+    "devicon-jest-plain",
+    "devicon-materialui-plain",
+    "devicon-nodejs-plain"
+    
+  ],
+  "liveUrl": "https://little-lemon-booking-capstone.netlify.app/",
+  "githubUrl": "https://github.com/grnt7/Little-Lemon-Capstone"
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
