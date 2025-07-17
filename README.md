@@ -1,22 +1,34 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# 🧑‍💻 David's Developer Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+Welcome to my personal portfolio — built using React Native (Expo) and designed as a clean, modern interface to showcase my skills, projects, and learning journey as a front-end developer.
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+---
 
-## Resume Starter Pack Description
+## 🔍 Overview
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+This project is a mobile-first resume/portfolio app where I highlight my development skills, certifications, and personal projects. It’s also a learning playground where I practice mobile UI/UX concepts and experiment with responsive design.
 
-## 1. Make sure you have NODE installed!
+Originally inspired by [Original Author](https://github.com/original-author) (if applicable), I’ve adapted and customized it to serve as my own interactive CV.
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+---
 
-## 2. Clone the repo!
+## 🚀 Features
 
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
+- Clean, professional mobile layout
+- Interactive project cards
+- About Me section with custom branding
+- Skills, certifications, and contact info
+- Built with Expo (custom dev build for Android Studio)
 
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
+---
+
+## 📱 How to Run
+
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   npm install
+
 
 ## 3. Install Dependancies
 
