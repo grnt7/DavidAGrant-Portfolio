@@ -1,6 +1,6 @@
 # 🧑‍💻 David's Developer Portfolio
 
-Welcome to my personal portfolio — built using React Native (Expo) and designed as a clean, modern interface to showcase my skills, projects, and learning journey as a front-end developer.
+Welcome to my personal portfolio — built using React and designed as a clean, modern interface to showcase my skills, projects, and learning journey as a front-end developer.
 
 ---
 
