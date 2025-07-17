@@ -199,12 +199,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Design is not just what it looks like and feels like. Design is how it works.",
+        "user": "Steve Jobs"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+        "user": " Patrick McKenzie, software engineer"
       }
     ]
   }
