@@ -3,7 +3,7 @@
     "name": "David Grant",
     "occupation": "Junior Frontend Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "dgportrait.jpg",
+    "image": "dgPortrait.jpg",
     "bio": "Hi there! I am David! My journey into coding began with the Meta Front-End Developer course, where I discovered a passion for building clean, user-friendly interfaces. Since then, I’ve been honing my skills in front-end development, with a strong focus on writing accessible, responsive, and efficient code. In addition to development, I’ve also studied the Google UX design Course and earned certifications in Google Digital Marketing and E-commerce plus Harvard's Python CS50. These experiences give me a broader perspective on creating products that not only work well—but truly connect with users. I'm excited to keep growing as a developer and contribute to meaningful, user-centered projects.",
 
 
@@ -96,7 +96,7 @@
         "title": "Lime Scooter Clone (React Native)",
         "description": "Lime Scooter Clone developed using React Native, Android Studio, Supabase Authentication and Mapbox API.",
         "category": "",
-        "image": "LimeStartJourneyAndroidMockup.jpg",
+        "image": "Lime500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Supabase", "Android Studio", "Expo"],
   "icons": [
     "devicon-react-original",
@@ -117,7 +117,7 @@
         "title": "Uber Clone (React Native)",
         "description": "Created a clone of the Uber interface, focusing on the user map and ride request functionality.Technologies Used: React Native,Google Autocomplete, Google Directions API, Google Places API, Google Distance Matrix API)",
         "category": "",
-        "image": "White and Black Minimalist Phone MockupUberClone).jpg",
+        "image": "Uber500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js","Android Studio", "Expo"],
         "icons": [
     "devicon-react-original",
@@ -138,7 +138,7 @@
 
 
         "category": "",
-        "image": "NeutralBohoTabletMockupNetflix.png",
+        "image": "Netflix_Tablet.png",
          "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Firebase", "Vercel", "Stripe API"],
         "icons": [
     "devicon-react-original",
@@ -159,7 +159,7 @@
         "description":"Developed a clone of the Airbnb frontend, focusing on product display with a calendar date picker, and user interaction. Technologies Used: HTML, CSS, JavaScript, React, Nextjs, Mapbox API and  Vercel Deployment.",
 
         "category": "",
-        "image": "BohoTablet1.png",
+        "image": "AirbnbTab600x385png.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
@@ -179,7 +179,7 @@
 
 
         "category": "",
-        "image": "LittlelemonLaptopVibrant.jpg",
+        "image": "LittleLemonLaptopNew.jpg",
         "tech": ["React",  "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
