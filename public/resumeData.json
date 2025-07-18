@@ -179,7 +179,7 @@
 
 
         "category": "",
-        "image": "LittleLemonLaptopNew.jpg",
+        "image": "LittleLemonLaptopNewLayer.png",
         "tech": ["React",  "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
