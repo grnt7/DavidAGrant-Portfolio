@@ -134,7 +134,7 @@
       },
       {
         "title": "Netflix Clone (React JS)",
-        "description":"Built a clone of the Netflix user interface and core functionalities to practice and demonstrate full-stack web development skills. This project involved creating a dynamic front-end with React and managing complex application state using Redux. User authentication was implemented using Google Auth and Firebase, where clicking on a link would direct users to a dedicated sign-in/sign-up page. The application features a profile icon that allows users to explore different subscription plans, with the payment process integrated via Stripe Checkout (demo account), handling secure transactions and processing payment events via Webhooks, likely utilizing Firebase's serverless capabilities. Movie and TV show data were fetched from the TMDB API. The entire application was deployed and hosted on Netlify.",
+        "description":"Built a clone of the Netflix user interface and core functionalities to practice and demonstrate full-stack web development skills. This project involved creating a dynamic front-end with React and managing complex application state using Redux. User authentication was implemented using Google Auth and Firebase, where clicking on a link would direct users to a dedicated sign-in/sign-up page. Movie and TV show data were fetched from the TMDB API. The application also integrated Stripe Checkout for payment simulations, handling secure transactions and processing payment events via Webhooks, likely utilizing Firebase's serverless capabilities; the profile icon allows users to select a plan but it's a demo account on Stripe. The entire application was deployed and hosted on Netlify.",
 
 
         "category": "",
