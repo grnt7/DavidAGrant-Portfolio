@@ -94,7 +94,7 @@
     "projects": [
       {
         "title": "Lime Scooter Clone (React Native)",
-        "description": "Lime Scooter Clone developed using React Native, Android Studio, Supabase Authentication and Mapbox API.",
+        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication and likely managing scooter data. Real-time mapping and location-based services, crucial for locating and tracking scooters, were powered by the Mapbox API.",
         "category": "",
         "image": "Lime500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Supabase", "Android Studio", "Expo"],
@@ -115,7 +115,7 @@
       },
       {
         "title": "Uber Clone (React Native)",
-        "description": "Created a clone of the Uber interface, focusing on the user map and ride request functionality.Technologies Used: React Native,Google Autocomplete, Google Directions API, Google Places API, Google Distance Matrix API)",
+        "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications.",
         "category": "",
         "image": "Uber500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js","Android Studio", "Expo"],
@@ -134,7 +134,7 @@
       },
       {
         "title": "Netflix Clone (React JS)",
-        "description":"Built a clone of the Netflix user interface to practice and demonstrate front-end development skills.echnologies Used: React, Redux, Google Auth, Firebase, TMDB, Stripe Checkout & Webhooks, Redux, Netlify Deployment.",
+        "description":"Built a clone of the Netflix user interface and core functionalities to practice and demonstrate full-stack web development skills. This project involved creating a dynamic front-end with React and managing complex application state using Redux. User authentication was implemented using Google Auth and Firebase, where clicking on a link would direct users to a dedicated sign-in/sign-up page. The application features a profile icon that allows users to explore different subscription plans, with the payment process integrated via Stripe Checkout (demo account), handling secure transactions and processing payment events via Webhooks, likely utilizing Firebase's serverless capabilities. Movie and TV show data were fetched from the TMDB API. The entire application was deployed and hosted on Netlify.",
 
 
         "category": "",
@@ -156,7 +156,7 @@
       },
       {
         "title": "Airbnb Clone (React JS)",
-        "description":"Developed a clone of the Airbnb frontend, focusing on product display with a calendar date picker, and user interaction. Technologies Used: HTML, CSS, JavaScript, React, Nextjs, Mapbox API and  Vercel Deployment.",
+        "description":"Developed a comprehensive clone of the Airbnb frontend, emphasizing product display, interactive search, and user interaction flows. The project leveraged a modern web development stack, utilizing React for building dynamic user interfaces within a Next.js framework, which provided server-side rendering capabilities for enhanced performance and SEO. Core styling was handled with HTML and CSS, augmented by JavaScript for interactive elements. Key features included an intuitive calendar date picker for booking availability and seamless integration with the Mapbox API to display property locations. The entire application was deployed and hosted on Vercel, demonstrating proficiency in modern web deployment pipelines.",
 
         "category": "",
         "image": "AirbnbTab600x385png.png",
@@ -179,7 +179,7 @@
 
 
         "category": "",
-        "image": "LittleLemonLaptopNewLayer.png",
+        "image": "LittleLemonLaptopContrast.png",
         "tech": ["React",  "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
