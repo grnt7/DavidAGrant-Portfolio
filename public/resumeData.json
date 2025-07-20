@@ -138,7 +138,7 @@
 
 
         "category": "",
-        "image": "Netflix_Tablet.png",
+        "image": "Netflix_Tablet435x683.png",
          "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Firebase", "Vercel", "Stripe API"],
         "icons": [
     "devicon-react-original",
@@ -159,7 +159,7 @@
         "description":"Developed a comprehensive clone of the Airbnb frontend, emphasizing product display, interactive search, and user interaction flows. The project leveraged a modern web development stack, utilizing React for building dynamic user interfaces within a Next.js framework, which provided server-side rendering capabilities for enhanced performance and SEO. Core styling was handled with HTML and CSS, augmented by JavaScript for interactive elements. Key features included an intuitive calendar date picker for booking availability and seamless integration with the Mapbox API to display property locations. The entire application was deployed and hosted on Vercel, demonstrating proficiency in modern web deployment pipelines.",
 
         "category": "",
-        "image": "AirbnbTab1_copy.png",
+        "image": "Airbnb_Tablet435x683.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
