@@ -175,7 +175,7 @@
       },
    {
         "title": "Little Lemon Restaurant (React JS)",
-        "description":"Completed during Meta Front-end developer certificate for Capstone project.Built using React. Fully responsive with table booking fucntionality.",
+        "description":"Completed during Meta Front-end developer certificate for Capstone project.Built using React. Fully responsive with table booking fucntionality. Deployed on Netlify. The project showcases a restaurant booking system with a user-friendly interface, allowing customers to make reservations. The application is designed to be fully responsive, ensuring a seamless experience across devices. It utilizes React for dynamic rendering and state management, providing an interactive user experience. The project is hosted on Netlify, demonstrating proficiency in modern web deployment practices.",
 
 
         "category": "",
