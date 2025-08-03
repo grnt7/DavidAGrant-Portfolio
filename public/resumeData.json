@@ -198,10 +198,11 @@
   },
    
   "testimonials": {
+     "title": "Design Philosophy",
     "testimonials": [
 
       {
-        "title": "Design Philosophy",
+       
         "text": "Design is not just what it looks like and feels like. Design is how it works.",
         "user": "Steve Jobs"
       },
