@@ -118,11 +118,12 @@
         "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications.",
         "category": "",
         "image": "Uber500x200px.png",
-        "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js","Android Studio", "Expo"],
+        "tech": ["React", "TypeScript", "Next.js", "Tailwind Css","Jest", "Material UI", "Node.js","Android Studio", "Expo"],
         "icons": [
     "devicon-react-original",
     "devicon-typescript-plain",
    "devicon-nextjs-plain colored",
+    "devicon-tailwindcss-original colored",
     "devicon-jest-plain",
     "devicon-materialui-plain",
     "devicon-nodejs-plain",
@@ -154,17 +155,19 @@
   "liveUrl": "https://neflix-build-demo.vercel.app/",
   "githubUrl": "https://github.com/grnt7/Neflix-build-demo"
       },
+      
       {
         "title": "Airbnb Clone (React JS)",
         "description":"Developed a comprehensive clone of the Airbnb frontend, emphasizing product display, interactive search, and user interaction flows. The project leveraged a modern web development stack, utilizing React for building dynamic user interfaces within a Next.js framework, which provided server-side rendering capabilities for enhanced performance and SEO. Core styling was handled with HTML and CSS, augmented by JavaScript for interactive elements. Key features included an intuitive calendar date picker for booking availability and seamless integration with the Mapbox API to display property locations. The entire application was deployed and hosted on Vercel, demonstrating proficiency in modern web deployment pipelines.",
 
         "category": "",
         "image": "IpadAirbnb2000X.png",
-        "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js"],
+        "tech": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "Material UI", "Node.js"],
         "icons": [
     "devicon-react-original",
     "devicon-typescript-plain",
    "devicon-nextjs-plain colored",
+    "devicon-tailwindcss-original colored",
     "devicon-jest-plain",
     "devicon-materialui-plain",
     "devicon-nodejs-plain"
@@ -192,10 +195,35 @@
   ],
   "liveUrl": "https://little-lemon-booking-capstone.netlify.app/",
   "githubUrl": "https://github.com/grnt7/Little-Lemon-Capstone"
-      }
+      },
 
+       {
+        "title": "Spotify (React, Next.js)",
+        "description":"Developed a clone of the Spotify web application using React and Next.js, focusing on creating a responsive and interactive user interface. The project integrates the Spotify Web API to fetch and display music data, allowing users to search for tracks, albums, and artists. The application features a modern design with a focus on usability, leveraging Next.js for server-side rendering and improved performance. Jest was used for unit testing to ensure code reliability. The project is styled with Material UI, providing a consistent and visually appealing user experience. The application is hosted on Vercel, showcasing proficiency in modern web development practices.",
+
+
+        "category": "",
+        "image": "AllDevicesBGRemoved.png",
+        "tech": ["React", "Next.js", "Typescript", "Tailwind Css","Jest", "Node.js"],
+        "icons": [
+    "devicon-react-original",
+    "devicon-nextjs-plain colored",
+    "devicon-typescript-plain",
+   
+    "devicon-tailwindcss-original colored",
+     "devicon-jest-plain",
+    "devicon-nodejs-plain"
+        ],
+  
+  "liveUrl": "https://spotify-1-lake.vercel.app//",
+  "githubUrl": "https://github.com/grnt7/Spotify-1"
+      }
+   
     ]
   },
+
+   
+
    
   "testimonials": {
      "title": "Design Philosophy",
@@ -213,3 +241,5 @@
     ]
   }
 }
+
+
