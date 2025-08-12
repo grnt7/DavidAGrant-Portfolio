@@ -94,7 +94,7 @@
     "projects": [
       {
         "title": "Lime Scooter Clone (React Native)",
-        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication and likely managing scooter data. Real-time mapping and location-based services, crucial for locating and tracking scooters, were powered by the Mapbox API.",
+        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication, tracking rides and managing scooter data. Real-time mapping and location-based services, crucial for locating and tracking scooters, were powered by the Mapbox API.",
         "category": "",
         "image": "Lime500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Supabase", "Android Studio", "Expo"],
