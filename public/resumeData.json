@@ -162,7 +162,7 @@
 
         "category": "",
         "image": "IpadAirbnb2000X.png",
-        "tech": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "Material UI", "Node.js"],
+        "tech": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "Material UI", "Node.js", "Vercel"],
         "icons": [
     "devicon-react-original",
     "devicon-typescript-plain",
@@ -170,7 +170,8 @@
     "devicon-tailwindcss-original colored",
     "devicon-jest-plain",
     "devicon-materialui-plain",
-    "devicon-nodejs-plain"
+    "devicon-nodejs-plain",
+    "devicon-vercel-original" 
     
   ],
   "liveUrl": "https://airbnb-clone1-two.vercel.app/",
