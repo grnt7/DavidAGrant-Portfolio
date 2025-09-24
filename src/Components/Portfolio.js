@@ -72,7 +72,7 @@ const [showQR, setShowQR] = useState(false);
     className="btn"
     style={{ cursor: "pointer" }}
     >
-    QR Code
+    QrCode
   </button>
         
 
