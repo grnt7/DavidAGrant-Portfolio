@@ -66,13 +66,13 @@ const [showQR, setShowQR] = useState(false);
                       )}
   {/* New button to open the QR code */}
         {project.qrcodeImage && (
-          <a href="#"
+          <button
             onClick={() => setShowQR(true)}
             className="btn"
             style={{ cursor: 'pointer' }}
           >
             QR Code
-          </a>
+          </button>
         )}
       </div>
 
