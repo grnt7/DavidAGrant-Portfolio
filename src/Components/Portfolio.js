@@ -4,7 +4,7 @@ import "./Portfolio.css"; // Create this CSS file to style the layout
 const Portfolio = ({ data }) => {
 
 const [showQR, setShowQR] = useState(false);
-  const [ setCurrentQR] = useState(null);
+  
 
   if (!data || !data.projects) return null;
 
@@ -66,7 +66,7 @@ const [showQR, setShowQR] = useState(false);
                       )}
   {/* New button to open the QR code */}
         {project.qrcodeImage && (
-          <a
+          <a href="#"
             onClick={() => setShowQR(true)}
             className="btn"
             style={{ cursor: 'pointer' }}
