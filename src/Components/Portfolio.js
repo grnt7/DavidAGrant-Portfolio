@@ -4,21 +4,13 @@ import "./Portfolio.css"; // Create this CSS file to style the layout
 const Portfolio = ({ data }) => {
 
 const [showQR, setShowQR] = useState(false);
-  const [currentQR, setCurrentQR] = useState(null);
+  const [ setCurrentQR] = useState(null);
 
   if (!data || !data.projects) return null;
 
   
 
-  const handleQRClick = (qrImage) => {
-    setCurrentQR(qrImage);
-    setShowQR(true);
-  };
 
-  const closeQR = () => {
-    setShowQR(false);
-    setCurrentQR(null);
-  };
    
 
   return (
