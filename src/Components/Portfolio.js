@@ -66,19 +66,15 @@ const [showQR, setShowQR] = useState(false);
                       )}
   {/* New button to open the QR code */}
         {project.qrcodeImage && (
-           <a
-    href="#"
-    onClick={(e) => {
-      e.preventDefault(); // This stops the page from jumping to the top
-      setShowQR(true);
-    }}
+          <>
+           <button
+    onClick={() => setShowQR(true)}
     className="btn"
-    cursor="pointer"
-  >
+    style={{ cursor: "pointer" }}
+    >
     QR Code
-  </a>
-        )}
-      </div>
+  </button>
+        
 
       {/* Conditionally render the QR code popup */}
       {showQR && (
@@ -94,10 +90,12 @@ const [showQR, setShowQR] = useState(false);
           </div>
         </div>
       )}
-    </div>
+    </>
+        )}
                     </div>
-                  
-                
+                  </div>
+                </div>     
+             
               );
             })}
           </div>
