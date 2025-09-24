@@ -64,5 +64,52 @@
   color: #fff;
 }
 
+.project-buttons {
+  /* Enables Flexbox on the container */
+  display: flex; 
+
+  /* Aligns items horizontally */
+  align-items: center; 
+
+  /* Adds space between the items */
+  gap: 10px; /* Adjust this value as needed for spacing */
+}
+
 /*#c0392b
 */
+
+/* .qrcode {
+ border: 1px solid #cc5200; 
+}
+.qr-code-container {
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* border: 1px solid #cc5200; */
+/* } */ */
+
+.qr-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Styles for the popup content */
+.qr-popup-content {
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+  height: 200px;
+  width: 200px
+}
+
+/* Styles for the close button */

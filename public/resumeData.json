@@ -94,7 +94,7 @@
     "projects": [
       {
         "title": "Lime Scooter Clone (React Native)",
-        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication, tracking rides and managing scooter data. Real-time mapping and location-based services, crucial for locating and tracking scooters, were powered by the Mapbox API.",
+        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication, tracking rides and managing scooter data. Real-time mapping and location-based services, crucial for locating and tracking scooters, were powered by the Mapbox API. You can direct download link for my Android app. If you're using an Android device, you can tap the link to download and install the app. You don't need Android Studio or any other developer tools.",
         "category": "",
         "image": "Lime500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Jest", "Material UI", "Node.js", "Supabase", "Android Studio", "Expo"],
@@ -109,13 +109,14 @@
     "devicon-androidstudio-plain colored"
     
   ],
-  "liveUrl": "",
+  "liveUrl": "https://expo.dev/artifacts/eas/pwfvn9GuFLsRCXA471PUwD.apk",
   "githubUrl": "https://github.com/grnt7/Lime-App"
+  
        
       },
       {
         "title": "Uber Clone (React Native)",
-        "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications.",
+        "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications. Expo Go was used for development and testing.",
         "category": "",
         "image": "Uber500x200px.png",
         "tech": ["React", "TypeScript", "Next.js", "Tailwind Css","Jest", "Material UI", "Node.js","Android Studio", "Expo"],
@@ -130,8 +131,9 @@
      "devicon-androidstudio-plain colored"
     
   ],
-  "liveUrl": "",
-  "githubUrl": "https://github.com/grnt7/my-expo-Uber-Clone"
+  "liveUrl": "https://expo.dev/go/",
+  "githubUrl": "https://github.com/grnt7/my-expo-Uber-Clone",
+  "qrcodeImage": "./images/UberCloneQRCode.png"
       },
       {
         "title": "Netflix Clone (React JS)",

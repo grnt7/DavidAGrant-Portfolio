@@ -1,8 +1,25 @@
-import React from "react";
+import React, { useState } from 'react';
 import "./Portfolio.css"; // Create this CSS file to style the layout
 
 const Portfolio = ({ data }) => {
+
+const [showQR, setShowQR] = useState(false);
+  const [currentQR, setCurrentQR] = useState(null);
+
   if (!data || !data.projects) return null;
+
+  
+
+  const handleQRClick = (qrImage) => {
+    setCurrentQR(qrImage);
+    setShowQR(true);
+  };
+
+  const closeQR = () => {
+    setShowQR(false);
+    setCurrentQR(null);
+  };
+   
 
   return (
     <section id="portfolio">
@@ -55,9 +72,36 @@ const Portfolio = ({ data }) => {
                           GitHub
                         </a>
                       )}
+  {/* New button to open the QR code */}
+        {project.qrcodeImage && (
+          <a
+            onClick={() => setShowQR(true)}
+            className="btn"
+            style={{ cursor: 'pointer' }}
+          >
+            QR Code
+          </a>
+        )}
+      </div>
+
+      {/* Conditionally render the QR code popup */}
+      {showQR && (
+        <div className="qr-code-popup">
+          <div className="qr-code-content">
+            <img src={project.qrcodeImage} alt="QR code"
+              style={{ width: '50%', height: 'auto' }}
+            />
+            <p>Scan with Expo Go</p>
+            <button onClick={() => setShowQR(false)} className="close-btn">
+              Close
+            </button>
+          </div>
+        </div>
+      )}
+    </div>
                     </div>
-                  </div>
-                </div>
+                  
+                
               );
             })}
           </div>
