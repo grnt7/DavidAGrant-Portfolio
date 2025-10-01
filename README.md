@@ -18,7 +18,7 @@ Originally inspired by [Original Author](https://github.com/original-author) (if
 - Interactive project cards
 - About Me section with custom branding
 - Skills, certifications, and contact info
-- Built with Expo (custom dev build for Android Studio)
+- Built with REACT.
 
 ---
 
