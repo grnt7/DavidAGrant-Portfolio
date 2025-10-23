@@ -8,7 +8,7 @@ Welcome to my personal portfolio — built using React and designed as a clean, 
 
 This project is a mobile-first resume/portfolio app where I highlight my development skills, certifications, and personal projects. It’s also a learning playground where I practice mobile UI/UX concepts and experiment with responsive design.
 
-Originally inspired by [Original Author](https://github.com/original-author) (if applicable), I’ve adapted and customized it to serve as my own interactive CV.
+Originally inspired by Tim Baker, I’ve adapted and customized it to serve as my own interactive CV.
 
 ---
 
@@ -18,7 +18,7 @@ Originally inspired by [Original Author](https://github.com/original-author) (if
 - Interactive project cards
 - About Me section with custom branding
 - Skills, certifications, and contact info
-- Built with Expo (custom dev build for Android Studio)
+- Built with REACT.
 
 ---
 
