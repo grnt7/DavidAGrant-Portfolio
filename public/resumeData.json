@@ -85,7 +85,7 @@
     "name": "Expo",
     "iconClass": "si si-expo",
     "color": "#000020"
-  }
+  },
   { "name": "GitHub", "iconClass": "devicon-github-original" },
   { "name": "Firebase", "iconClass": "devicon-firebase-plain" },
   { "name": "Vercel", "iconClass": "devicon-vercel-original" },
