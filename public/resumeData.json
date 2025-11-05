@@ -80,7 +80,12 @@
   { "name": "Django", "iconClass": "devicon-django-plain" },
   { "name": "PostgreSQL", "iconClass": "devicon-postgresql-plain" },
   { "name": "Supabase", "iconClass": "devicon-supabase-plain"},
-  { "name": "Expo", "iconClass": "fa-brands fa-expo"},
+  {
+ 
+    "name": "Expo",
+    "iconClass": "si si-expo",
+    "color": "#000020"
+  }
   { "name": "GitHub", "iconClass": "devicon-github-original" },
   { "name": "Firebase", "iconClass": "devicon-firebase-plain" },
   { "name": "Vercel", "iconClass": "devicon-vercel-original" },
