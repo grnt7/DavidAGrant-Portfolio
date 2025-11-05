@@ -80,7 +80,7 @@
   { "name": "Django", "iconClass": "devicon-django-plain" },
   { "name": "PostgreSQL", "iconClass": "devicon-postgresql-plain" },
   { "name": "Supabase", "iconClass": "devicon-supabase-plain"},
-  { "name": "Expo", "iconClass": "devicon-expo-original-wordmark colored" },
+  { "name": "Expo", "iconClass": "fa-brands fa-expo"},
   { "name": "GitHub", "iconClass": "devicon-github-original" },
   { "name": "Firebase", "iconClass": "devicon-firebase-plain" },
   { "name": "Vercel", "iconClass": "devicon-vercel-original" },
