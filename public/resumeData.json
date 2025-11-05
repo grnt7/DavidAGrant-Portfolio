@@ -105,7 +105,8 @@
    
     "devicon-nodejs-plain",
     "devicon-supabase-plain",
-    "devicon-androidstudio-plain colored"
+    "devicon-androidstudio-plain colored",
+      "devicon-expo-original"
     
   ],
   "liveUrl": "https://expo.dev/artifacts/eas/pwfvn9GuFLsRCXA471PUwD.apk",
@@ -118,16 +119,18 @@
         "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications. Expo Go was used for development and testing.",
         "category": "",
         "image": "Uber500x200px.png",
-        "tech": ["React Native", "TypeScript", "Tailwind Css", "Google APIS","Jest", "Node.js","Android Studio", "Expo"],
+        "tech": ["React Native", "TypeScript", "Tailwind Css", "Figma", "Google APIS","Jest", "Node.js","Android Studio", "Expo"],
         "icons": [
     "devicon-react-original",
     "devicon-typescript-plain",
    "devicon-tailwindcss-original colored",
+     "devicon-figma-plain",
    "devicon-googlecloud-plain colored",
     "devicon-jest-plain",
 
     "devicon-nodejs-plain",
-     "devicon-androidstudio-plain colored"
+     "devicon-androidstudio-plain colored",
+     "devicon-expo-original"
     
   ],
   "liveUrl": "https://expo.dev/go/",
@@ -141,13 +144,14 @@
 
         "category": "",
         "image": "IpadNetflixsdignupx2000.png",
-         "tech": ["React", "TypeScript", "Next.js", "Jest", "CSS3", "Node.js", "Firebase", "Vercel", "Stripe API"],
+         "tech": ["React", "TypeScript", "Next.js", "Jest", "CSS3", "Figma","Node.js", "Firebase", "Vercel", "Stripe API"],
         "icons": [
     "devicon-react-original",
     "devicon-typescript-plain",
    "devicon-nextjs-plain colored",
     "devicon-jest-plain",
     "devicon-css3-plain",
+      "devicon-figma-plain",
     "devicon-nodejs-plain",
     "devicon-firebase-plain",
     "devicon-vercel-original" 
@@ -185,7 +189,7 @@
 
         "category": "",
         "image": "LittleLemonLaptopX.png",
-        "tech": ["React","CSS3", "figma", "Jest",  "Node.js", "Netlify"],
+        "tech": ["React","CSS3", "Figma", "Jest",  "Node.js", "Netlify"],
         "icons": [
     "devicon-react-original",
     
