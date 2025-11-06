@@ -36,6 +36,7 @@
   flex-wrap: wrap;
   gap: 1rem;
   margin: 1rem 0;
+ 
 }
 
 .tech-item {
@@ -48,6 +49,41 @@
 .tech-item i {
   font-size: 32px; /* adjust as needed */
   min-width: 32px;
+
+}
+
+.tech-stack .tech-item .si-expo {
+    /* 1. Reset its display and vertical position (required fixes) */
+    display: inline-block; 
+    transform: translateY(1px); 
+    margin-bottom: 0.8rem;
+    
+    /* 2. FORCE HORIZONTAL ADJUSTMENT */
+    /* Use a fixed, smaller width to shrink the icon's bounding box */
+    width: 24px; 
+    
+    /* Apply a strong negative margin to pull it left, closing the visual gap. */
+    /* Start aggressive (e.g., -10px) and then reduce it until it looks right. */
+    margin-left: 0px !important; 
+    
+    /* Temporarily add !important to test if this rule is being ignored */
+}
+
+.project-details ul {
+    /* This rule often suppresses the bullet marker. We are resetting it. */
+    list-style-type: disc !important; 
+    
+    /* Ensure the list has left padding so the bullets are visible */
+    padding-left: 20px !important; 
+    
+    /* Make sure margins aren't collapsing the space */
+    margin-top: 5px; 
+}
+
+/* Ensure the list items are also styled correctly */
+.project-details ul li {
+    /* Re-enforce line height and margin if needed */
+    margin-bottom: 5px; 
 }
 
 .btn {

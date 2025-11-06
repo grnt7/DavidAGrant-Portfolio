@@ -99,8 +99,19 @@
     "projects": [
       {
         "title": "Lime Scooter Clone (React Native)",
-        "description": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating cross-platform development and backend-as-a-service integration. The application's user interface and client-side logic were built using React Native, ensuring compatibility across both iOS and Android platforms. Android Studio was utilized for development and testing. Supabase served as the comprehensive backend, handling all user authentication, tracking rides and managing scooter data. Real-time mapping and location-based services using Mapbox API, crucial for locating and tracking scooters, were powered by the Mapbox API. You can direct download link for my Android app. If you're using an Android device, you can tap the link to download and install the app. You don't need Android Studio or any other developer tools.",
-        "category": "",
+       
+        "summary": "Developed a full-featured mobile application mimicking the functionality of a Lime scooter rental service, demonstrating expertise in cross-platform development and seamless Backend-as-a-Service integration.",
+        "tech used": "React Native, TypeScript, Supabase, Mapbox API, Jest, Node.js, Android Studio, Expo",
+        "achievements": [
+    "Built the application's user interface and client-side logic using React Native, ensuring compatibility across both iOS and Android platforms.",
+    "Integrated the Supabase platform to handle all backend services, including user authentication, real-time ride tracking, and managing scooter data.",
+    "Utilized the Mapbox API for crucial real-time mapping, location-based services, and precise calculation for locating and tracking scooters."
+  ],
+  "tools_and_testing": [
+    "Disclaimer:** Built purely for demonstration of React Native/Mapbox/Supabase/Authentication skills; zero affiliation with the original brand.",
+    "The client-side was developed and tested using Android Studio.",
+    "Provided a direct download link (APK) for installation on Android devices, bypassing the need for developer tools."
+  ],
         "image": "Lime500x200px.png",
         "tech": ["React Native", "TypeScript", "Jest", "Node.js", "Supabase", "Android Studio", "Expo"],
   "icons": [
@@ -111,7 +122,10 @@
     "devicon-nodejs-plain",
     "devicon-supabase-plain",
     "devicon-androidstudio-plain colored",
-    "devicon-expo-original-wordmark colored"
+   {
+      "iconClass": "si si-expo",
+      "color": "#000020"
+    }
     
   ],
   "liveUrl": "https://expo.dev/artifacts/eas/pwfvn9GuFLsRCXA471PUwD.apk",
@@ -121,21 +135,39 @@
       },
       {
         "title": "Uber Clone (React Native)",
-        "description": "Created a clone of the Uber interface, with a strong focus on the user map and core ride request functionality, to demonstrate expertise in mobile development and complex Google Maps API integrations. The mobile application's front-end and user experience were built using React Native. Real-time location services, route planning, and destination suggestions were powered by a suite of Google APIs, including Google Autocomplete for address input, Google Directions API for calculating routes, Google Places API for points of interest, and Google Distance Matrix API for precise distance and travel time estimations between locations. This project showcases the ability to build sophisticated location-aware applications. Expo Go was used for development and testing.",
+        "summary": "Mobile ridesharing app replicating Uber’s core features, built using React Native and deployed via Expo Go for seamless testing on Android and iOS.",
+        "tech used": "React Native, Tailwind CSS, Figma Google Maps APIs(Maps, Places, Directions, Distance Matrix, Google Autocomplete), Redux, Jest, Node.js, Expo, Android Studio",
+        "achievements": [
+    "Real-time ride tracking with live map integration",
+    "Pickup/dropoff selection and route visualization using Google Maps API.",
+    "State management with Redux for handling user data, ride requests, and app state.",
+    
+    "Developed a responsive UI with Tailwind CSS for a seamless user experience across devices.",
+    "Slick Introduction screen with animated logo and background image. Designed using Figma",
+    "Toggle switch for light and dark modes."
+  ],
+  "tools_and_testing": [
+    "Disclaimer:** Built purely for demonstration of React Native/Google API skills; zero affiliation with the original brand.",
+    "The client-side was developed and tested using Android Studio.",
+    "Provided a direct download link (APK) for installation on Android devices, bypassing the need for developer tools."
+  ],
         "category": "",
         "image": "Uber500x200px.png",
-        "tech": ["React Native", "TypeScript", "Tailwind Css", "Figma", "Google APIS","Jest", "Node.js","Android Studio", "Expo"],
+        "tech": ["React Native", "JavaScript", "Tailwind Css", "Figma", "Google APIS","Jest", "Node.js","Android Studio", "Expo"],
         "icons": [
     "devicon-react-original",
-    "devicon-typescript-plain",
-   "devicon-tailwindcss-original colored",
-     "devicon-figma-plain",
-   "devicon-googlecloud-plain colored",
+    "devicon-javascript-plain",
+    "devicon-tailwindcss-original colored",
+    "devicon-figma-plain",
+    "devicon-googlecloud-plain colored",
     "devicon-jest-plain",
-
     "devicon-nodejs-plain",
-     "devicon-androidstudio-plain colored",
-    "devicon-expo-original-wordmark colored"
+    "devicon-androidstudio-plain colored",
+    
+    {
+      "iconClass": "si si-expo",
+      "color": "#000020"
+    }
     
   ],
   "liveUrl": "https://expo.dev/go/",
@@ -144,7 +176,19 @@
       },
       {
         "title": "Netflix Clone (React JS)",
-        "description":"Built a clone of the Netflix user interface and core functionalities to practice and demonstrate full-stack web development skills. This project involved creating a dynamic front-end with React and managing complex application state using Redux. User authentication was implemented using Google Auth and Firebase, where clicking on a link would direct users to a dedicated sign-in/sign-up page. Movie and TV show data were fetched from the TMDB API. The application also integrated Stripe Checkout for payment simulations, handling secure transactions and processing payment events via Webhooks, utilizing Firebase's serverless capabilities; the profile icon allows users to select a plan but it's a demo account on Stripe. The entire application was deployed and hosted on Vercel.",
+        "summary": "Subscription-based video streaming interface that mimics Netflix’s user experience. Integrated Stripe for secure payments and deployed on Vercel.",
+         "tech used": "React, Next.js,  CSS3, Jest, Node.js, Firebase, Stripe API, TMDB API, Figma, Vercel, ",
+        "achievements": [
+    "Built the application's user interface and client-side logic using React, ensuring compatibility across both iOS and Android platforms.",
+    "User authentication and subscription management via Firebase, payment via Stripe API integration.",
+    "Responsive video card layouts with hover effects and dynamic content loading.",
+    "Slick Introduction screen with animated logo and background image. Designed using Figma"
+  ],
+  "tools_and_testing": [
+    "Disclaimer:** Built purely for demonstration of React Native/Firebase/NexstAuth/Stripe Payment API Integration kills; zero affiliation with the original brand.",
+    "Fully deployed on Vercel, demonstrating production-ready payment integration."
+    
+  ],
 
 
         "category": "",
@@ -167,9 +211,20 @@
       },
       
       {
-        "title": "Airbnb Clone (React JS)",
-        "description":"Developed a comprehensive clone of the Airbnb frontend, emphasizing product display, interactive search, and user interaction flows. The project leveraged a modern web development stack, utilizing React for building dynamic user interfaces within a Next.js framework, which provided server-side rendering capabilities for enhanced performance and SEO. Core styling was handled with HTML and Tailwind CSS, augmented by JavaScript for interactive elements. Key features included an intuitive calendar date picker for booking availability and seamless integration with the Mapbox API to display property locations. The entire application was deployed and hosted on Vercel, demonstrating proficiency in modern web deployment pipelines.",
-
+        "title": "Airbnb Clone (React, Next.js)",
+        "summary": "A full-stack accommodation booking app inspired by Airbnb, built with Next.js and deployed on Vercel for fast server-side rendering and global CDN performance.",
+         "tech used": "React, Next.js, Tailwind CSS, Mapbox API, Jest, Node.js, Vercel",
+        "achievements": [
+    "Dynamic user interfacing within a Next.js framework with listings, search, and filtering",
+    "Intuitive calender date picker for booking availbility",
+    "Integrated Mapbox API for interactive location mapping and property visualization.",
+    "Responsive design using Tailwind CSS for optimal viewing across devices."
+  ],
+  "tools_and_testing": [
+    "Disclaimer:** Built purely for demonstration of React/Tailwindcss/Mapbox skills; zero affiliation with the original brand.",
+    "Hosted live on Vercel, ensuring scalability and modern deployment practices."
+    
+  ],
         "category": "",
         "image": "IpadAirbnb2000X.png",
         "tech": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "Node.js", "Vercel"],
@@ -189,7 +244,18 @@
       },
    {
         "title": "Little Lemon Restaurant (React JS)",
-        "description":"Developed as the final project for the Meta Front-End Developer certificate, this application is a fully responsive restaurant booking system. It allows customers to easily make reservations through a user-friendly interface. The project was designed using Figma with full UX case study completed. Developed using React for efficient state management and dynamic rendering, ensuring an interactive and seamless user experience across all devices. The application is deployed and hosted on Netlify, demonstrating proficiency in modern web development and deployment pipelines.",
+        "summary": "Responsive web app for restaurant reservations, developed as a capstone for the Meta Front-End Developer Professional Certificate.",
+        "tech used": "React, CSS3, Figma, Jest, Node.js, Netlify",
+        "achievements": [
+    "Table booking form with validation and state management using React hooks.",
+    "Accessibility-friendly layout and navigation for an inclusive user experience.",
+    "Dynamic menu and booking confirmation features.",
+    " Designed using Figma"
+  ],
+  "tools_and_testing": [
+    "Deployed on Netlify, with continuous deployment from GitHub.",
+    "Tested using Jest to ensure component functionality and reliability."
+  ],
 
 
         "category": "",
@@ -211,8 +277,21 @@
 
        {
         "title": "Spotify (React, Next.js)",
-        "description":"Developed a clone of the Spotify web application using React and Next.js, focusing on creating a responsive and interactive user interface. The project integrates the Spotify Web API to fetch and display music data, allowing users to search for tracks, albums, and artists. The application features a modern design with a focus on usability, leveraging Next.js for server-side rendering and improved performance. Jest was used for unit testing to ensure code reliability. The project is styled with Material UI, providing a consistent and visually appealing user experience. The application is hosted on Vercel, showcasing proficiency in modern web development practices.",
+      "summary": "A responsive web application replicating the Spotify music streaming experience. Built with React and Next.js, the project integrates the Spotify Web API to fetch and display real music data, allowing users to browse artists, albums, and tracks with live search functionality. Designed for performance and user engagement, the app leverages server-side rendering and clean component architecture.",
+        "tech used": "React, Next.js, Typescript, Tailwind Css, Spotify Web Developer API, Jest, Node.js",
+      "achievements": [
+    "Frontend: React, Next.js (server-side rendering for performance), Tailwind CSS for responsive design.",
+    "Search and browse functionality for songs, albums, and artists via Spotify API",
+    "Integrated NextAuth for user authentication and secure access to Spotify data.",
+    "Dynamic routing and server-side rendering with Next.js for improved SEO and load times."
+  ],
+  "tools_and_testing": [
+    "Disclaimer:** Built purely for demonstration of React/Next.js utilizing Spotify Web developer API skills; zero affiliation with the original brand.",
 
+
+    "Vercel (production hosting and CI/CD"
+    
+  ],
 
         "category": "",
         "image": "AllDevicesBGRemoved.png",

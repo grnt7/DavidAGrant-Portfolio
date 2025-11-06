@@ -20,3 +20,19 @@
 .skill-card i {
   margin-bottom: 0.5rem;
 }
+
+.skill-card .si-expo {
+    /* Ensure the icon respects the transform property */
+    display: inline-block; 
+     color: #000020; /* Expo's brand color */
+    /* Move the icon down vertically by 1-3 pixels to match the Devicon baseline. */
+    /* Start with 1px and adjust if needed. */
+    transform: translateY(8px); 
+    margin-bottom: 1.5rem;
+  
+}
+
+.icons .si-expo {
+   
+    color: #000020; /* Expo's brand color */
+}
