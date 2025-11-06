@@ -136,10 +136,12 @@
       {
         "title": "Uber Clone (React Native)",
         "summary": "Mobile ridesharing app replicating Uber’s core features, built using React Native and deployed via Expo Go for seamless testing on Android and iOS.",
-        "tech used": "React Native, Tailwind CSS, Figma Google Maps APIs(Maps, Places, Directions, Distance Matrix, Google Autocomplete), Redux, Jest, Node.js, Expo, Android Studio",
+        "tech used": "React Native, Tailwind CSS, Redux, React Native elements, React Navigation, React Native Maps, Figma, Google Maps APIs(Maps, Places, Directions, Distance Matrix, Google Places Autocomplete), Jest, Node.js, Expo, Android Studio",
         "achievements": [
     "Real-time ride tracking with live map integration",
-    "Pickup/dropoff selection and route visualization using Google Maps API.",
+    "Pickup/dropoff selection and route visualization using Google Places Autocomplete and Directions APIs.",
+    "Distance Matrix API for fare estimation based on trip distance and duration.", 
+
     "State management with Redux for handling user data, ride requests, and app state.",
     
     "Developed a responsive UI with Tailwind CSS for a seamless user experience across devices.",
