@@ -297,7 +297,7 @@
 
         "category": "",
         "image": "AllDevicesBGRemoved.png",
-        "tech": ["React", "Next.js", "Typescript", "Tailwind Css","Jest", "Node.js"],
+        "tech": ["React", "Next.js", "Typescript", "Tailwind Css","Jest", "Node.js", "Vercel"],
         "icons": [
     "devicon-react-original",
     "devicon-nextjs-plain colored",
