@@ -305,7 +305,8 @@
    
     "devicon-tailwindcss-original colored",
      "devicon-jest-plain",
-    "devicon-nodejs-plain"
+    "devicon-nodejs-plain",
+     "devicon-vercel-original"
         ],
   
   "liveUrl": "https://spotify-1-lake.vercel.app//",
